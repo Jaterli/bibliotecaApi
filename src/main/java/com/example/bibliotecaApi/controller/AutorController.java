@@ -1,7 +1,6 @@
 package com.example.bibliotecaApi.controller;
 
 import com.example.bibliotecaApi.entities.Autor;
-import com.example.bibliotecaApi.entities.Libro;
 import com.example.bibliotecaApi.service.AutorService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
